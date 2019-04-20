@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Ohio State!"
+title:  "Ohio State"
 date:   2019-04-19 22:57:36 -0400
 categories: 
 ---
