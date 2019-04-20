@@ -30,6 +30,7 @@ tiles-count: 6
 
 # Build settings
 markdown: kramdown
+theme: fortyone-jekyll-theme
 remote_theme: andrewbanchich/forty-jekyll-theme
 plugins:
   - jekyll-feed

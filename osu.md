@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Elements
+title: Zachary Allegretti
 nav-menu: true
 ---
 
@@ -11,12 +11,12 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Ohio State</h1>
+			<h1>My College Career</h1>
 		</header>
 
 <!-- Content -->
-<h2 id="content">Sample Content</h2>
-<p>Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing.</p>
+<h2 id="content">A Buckeye Born and Raised</h2>
+<p>When I began visiting colleges during high school, I had no intention of venturing far from Northeast Ohio. However I made an exception for Ohio State for the reputation of their computer science and engineering departments. Surprisingly I was not really a fan of sports at the time, so their renowned football program didn't mean much to me at the time. Prior to my first visit, the only other schools I looked at were small, local institutions. I was captivated by the sprawling campus and the seemingly endless list of opportunities that were offered. As soon as I got my acceptance letter a few months later, I decided that I was going to be a buckeye. </p>
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Sem turpis amet semper</h3>
