@@ -16,9 +16,8 @@
 title: Zachary Allegretti
 email: allegretti813@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  I am a software engineer. I love coding, video games, fencing, and sports. I graduated from Ohio State and starting in July, I will
+  be working at Google as an Engineering Resident in Mountain View, CA. Check out the tiles below to learn more about me.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
