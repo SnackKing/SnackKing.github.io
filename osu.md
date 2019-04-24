@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: landing
 title: Education
 nav-menu: true
+description: 'I studied Computer Science and Engineering at THE Ohio State University, one of the largest public universities in the United States.'
 image: assets/images/osufootball.jpg
 
 ---

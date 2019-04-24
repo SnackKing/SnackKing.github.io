@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: landing
 title: Internship
 nav-menu: true
+description: 'Internships are a must-have for CS students. I interned at Progressive Insurance, one of the fastest-growing insurance providers, in the summer of 2018.'
 image: assets/images/prog.jpg
 
 ---
@@ -12,11 +13,6 @@ image: assets/images/prog.jpg
 <!-- One -->
 <section id="one">
 	<div class="inner">
-		<header class="major">
-			<h1>My Internship</h1>
-		</header>
-		<p>For CSE, getting a good internship is vital to your future success. As a lowerclassman, I never really had anyone to guide me through the interview process so I struggled a lot during my first two years. At the start of my third year, I knew that I absolutely needed to land a big internship. That internship ended uup being at Progressive, one of the fastest-growing insurance companies in the U.S. </p>
-		<hr />
 		<!-- Content -->
 		<h2 id="content">Getting the Job</h2>
 		<p>I initially engaged Progressive at the annual Engineering Expo, the biggest career fair for OSU engineers. I actually saw Progressive the year before, but they turned me away because I wasn't a junior or senior. I talked about my <a href="projects">projects</a> and talked about my academics and managed to leave a good impression. I got a request for a follow-up phone interview the next day, where I was asked more questions about my technical abilities. A few days later, I was invited to an on-site interview along with about 30 other candidates. I interviewed with 2 different managers from various teams at Progressive. We were also treated to dinner and a tour of Progressive's art collection. A few days later, the intern manager called me to offer me the job!</p>
@@ -99,9 +95,15 @@ image: assets/images/prog.jpg
 			<h2>Takeaways</h2>
 		</header>
 		<p>Progressive gave me everything that I wanted and more. They put me on an awesome team on a platform that I'm passionate about and gave me an awesome project to work on thoughout the summer. Everyone that I worked with: my manager, my mentor, and even my teammates were a lot of fun to work with and extremely supportive of me. The few months that I spent there gave me the critical experience that I needed to transition into the software industry. Progressive truly is a company that cares about its employees, and I will forever be grateful for the opportunity.</p>
-		<ul class="actions">
-			<li><a href="generic.html" class="button next">Get Started</a></li>
+		<p>Here is a summary of everything I learned/achieved</p>
+		<ul>
+			<li>An in-depth understanding of Kotlin, including benefits and drawbacks, methods of incorporation, and its place in Android development.
+			<li>How to build and deploy an Alexa skill from start to finish as well as all of the components, including AWS Lambda.
+			<li>Real experience working on an Agile team.
+			<li>Source control at a corporate level.
+			<li>How to work independently while still producing impact. 
 		</ul>
+		
 	</div>
 </section>
 
