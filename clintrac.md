@@ -2,7 +2,7 @@
 layout: post
 title: Clinical Tracking App
 description: 'My senior capstone project'
-show-tile: false
+show_tile: false
 ---
 <div class="box alt">
 		<div class="row uniform">
