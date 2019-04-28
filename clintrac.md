@@ -16,17 +16,17 @@ show_tile: false
 		<div class="inner">
 			<!-- Content -->
 			<h2 id="content">Background</h2>
-			<p>Every CSE student at OSU is required to take one of the many capstone classes during their senior year. The main idea of capstone is that you work on a project that will allow you to demonstrate everything that you have learned during your 4 years at the Univesity. I took the software engineering capstone, which required you to work with a 3rd party sponsor to elicit the project requirements</p>
-			<p>My project was sponsored by Erik and Sinead Yarberry from the OSU College of Nursing. They wanted an application that would allow their instructors to fill out and store their evaluation forms on tablets so they could move away from their paper system. This was a brand-new project with no code written at the start. </p>
+			<p>This project was sponsored by Erik and Sinead Yarberry from the OSU College of Nursing. They wanted an application that would allow their instructors to fill out and store their evaluation forms on tablets so they could move away from their paper system. This was a brand-new project with no code written at the start. </p>
+			<p>Every CSE student at OSU is required to take one of the many capstone classes during their senior year. The main idea of capstone is that you work on a project that will allow you to demonstrate everything that you have learned during your 4 years at the Univesity. I took the software engineering capstone, which required you to work with a 3rd party sponsor to elicit, refine, and implement the project requirements throughout the semester.</p>
 		</div>
 		<div class="inner">
 			<h2>The Team</h2>
 		</div>
 		<ul class="actions">
-					<li><a href="https://www.linkedin.com/in/kathy-guo/" class="button special">Kathy Guo</a></li>
-					<li><a href="https://www.linkedin.com/in/ryan-whitney-847226132/" class="button special">Ryan Whitney</a></li>
-					<li><a href="#" class="button special" style="pointer-events: none;">Matthew Chan</a></li>
-					<li><a href="https://www.linkedin.com/in/zachary-allegretti-37ba18154/" class="button special">Zach Allegretti</a></li>
+					<li><a href="https://www.linkedin.com/in/zachary-allegretti-37ba18154/" class="button special" style = "margin: 1em">Zach Allegretti</a></li>
+					<li><a href="#" class="button special" style="pointer-events: none;" style = "margin: 1em">Matthew Chan</a></li>
+					<li><a href="https://www.linkedin.com/in/kathy-guo/" class="button special" style = "margin: 1em">Kathy Guo</a></li>
+					<li><a href="https://www.linkedin.com/in/ryan-whitney-847226132/" class="button special" style = "margin: 1em">Ryan Whitney</a></li>
 		</ul>
 	</section>
 	<section class = "spotlights">
