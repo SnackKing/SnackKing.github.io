@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Clinical Tracking App
-nav-menu: false
 description: 'My senior capstone project'
+show-tile: false
 ---
 <div class="box alt">
 		<div class="row uniform">
