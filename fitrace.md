@@ -9,7 +9,7 @@ show_tile: false
 			<div class="4u"><span class="image fit"><img src="assets/images/fitrace_screenshot_2.png" alt="" /></span></div>
 			<div class="4u$"><span class="image fit"><img src="assets/images/fitrace_screenshot_3.png" alt="" /></span></div>
 		</div>
-	</div>
+</div>
 <div>
 	<section id="one">
 		<div class="inner">
@@ -78,3 +78,4 @@ show_tile: false
 			</div>
 		</section>
 	</section>
+</div>
