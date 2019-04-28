@@ -13,9 +13,7 @@ image: assets/images/code.jpg
 <!-- One -->
 <section id="One" class="spotlights">
 	<section>
-		<a href="generic.html" class="image">
-			<img src="assets/images/logo_new.jpg" alt="" data-position="center center" />
-		</a>
+		<img class = "image" src="assets/images/logo_new.jpg" alt="" data-position="center center" />
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -41,14 +39,27 @@ image: assets/images/code.jpg
 				<p>AuxNet is a messaging application that uses mesh networking to allow users to communicate without a network connection. My friends and I built this at HackOHI/O 2018, where we won Most Impactful and 3rd place overall.</p>
 				<ul class="actions">
 					<li><a href="auxnet.html" class="button">Learn more</a></li>
+					<li><a href="https://hack.osu.edu/2018/live/winners.html" class="button">HackOhi/o Results</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
-			<img src="assets/images/ontarget.png" alt="" data-position="25% 25%" />
-		</a>
+		<img class = "image" src="assets/images/edited.png" alt="" data-position="25% 25%" />
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Clinical Tracker</h3>
+				</header>
+				<p>This project was my senior capstone project.</p>
+				<ul class="actions">
+					<li><a href="clintrac.html" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
+		<img class = "image" src="assets/images/ontarget.png" alt="" data-position="25% 25%" />
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -58,7 +69,20 @@ image: assets/images/code.jpg
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 					<li><a href="https://play.google.com/store/apps/details?id=com.allegretti.zach.OnTargetFencing&hl=en_US" class="button special">Download on Google Play</a></li>
-
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
+			<img class = "image" src="assets/images/pupr.png" alt="" data-position="25% 25%" /> 
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Pupr</h3>
+				</header>
+				<p>Pupr is a web platform for looking at dogs.</p>
+				<ul class="actions">
+					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
@@ -69,11 +93,14 @@ image: assets/images/code.jpg
 <section id="three">
 	<div class="inner">
 		<header class="major">
-			<h2>Massa libero</h2>
+			<h2>Other Projects</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
-		<ul class="actions">
-			<li><a href="generic.html" class="button next">Get Started</a></li>
+		<p>Some other projects.</p>
+		<ul>
+			<li><b>Pi-Spy: </b> A pair pair of glasses that can take photos and videos. Built at HackOHI/O 2017.</li>
+			<li><b>LiftMath: </b> an app for easily calculating the weights you need for lifting</li>
+			<li><b>2048 Clone:</b> Class project for Information Security, this app looks like 2048 on the surface, but it actually reads your personal data and uploads it to a cloud database. </li>
+			<li><b>Buckeye Fencing Club Site: </b> I served as a web officer for the fencing club and built new website for them </li>
 		</ul>
 	</div>
 </section>
