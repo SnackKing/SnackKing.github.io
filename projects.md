@@ -13,14 +13,16 @@ image: assets/images/code.jpg
 <!-- One -->
 <section id="One" class="spotlights">
 	<section>
-		<img class = "image" src="assets/images/logo_new.jpg" alt="" data-position="center center" />
+		<a href = "" class ="image">
+			<img src="assets/images/fitrace.png" alt="" data-position="top center" />
+		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
 					<h3>FitRace</h3>
 				</header>
 				<p>Originally a class project, FitRace is the 2nd Android app I published on the Google Play Store. The goal of the app is to "gamify" fitness throught the use of time trials, experience points, challenges, and level ups </p>
-				<ul class="actions">
+				<ul class="actions"> 
 					<li><a href="fitrace.html" class="button">Learn more</a></li>
 					<li><a href="https://play.google.com/store/apps/details?id=com.harshil.zach.fitnesstracker&hl=en_US" class="button special">Download on Google Play</a></li>
 				</ul>
@@ -45,13 +47,15 @@ image: assets/images/code.jpg
 		</div>
 	</section>
 	<section>
-		<img class = "image" src="assets/images/edited.png" alt="" data-position="25% 25%" />
+		<a href="" class="image">
+			<img class = "image" src="assets/images/clintrac_bigger.png" alt="" data-position="25% 25%" />
+		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
 					<h3>Clinical Tracker</h3>
 				</header>
-				<p>This project was my senior capstone project.</p>
+				<p>This project was my senior capstone project. It is a mobile app built to help nursing instructors evalutate their students.</p>
 				<ul class="actions">
 					<li><a href="clintrac.html" class="button">Learn more</a></li>
 				</ul>
@@ -59,7 +63,9 @@ image: assets/images/code.jpg
 		</div>
 	</section>
 	<section>
-		<img class = "image" src="assets/images/ontarget.png" alt="" data-position="25% 25%" />
+		<a href="" class="image">
+			<img src="assets/images/ontarget.png" alt="" data-position="25% 25%" />
+		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
