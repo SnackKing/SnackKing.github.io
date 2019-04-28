@@ -21,13 +21,13 @@ show_tile: false
 		</div>
 		<div class="inner">
 			<h2>The Team</h2>
-			<ul class="actions">
+		</div>
+		<ul class="actions">
 					<li><a href="https://www.linkedin.com/in/kathy-guo/" class="button special">Kathy Guo</a></li>
 					<li><a href="https://www.linkedin.com/in/ryan-whitney-847226132/" class="button special">Ryan Whitney</a></li>
 					<li><a href="#" class="button special" style="pointer-events: none;">Matthew Chan</a></li>
 					<li><a href="https://www.linkedin.com/in/zachary-allegretti-37ba18154/" class="button special">Zach Allegretti</a></li>
-			</ul>
-		</div>
+		</ul>
 	</section>
 	<section class = "spotlights">
 		<section>
