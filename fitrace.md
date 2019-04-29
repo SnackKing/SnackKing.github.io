@@ -40,14 +40,16 @@ show_tile: false
 			</div>
 		</section>
 	</section>
+	<div class="6u$ 12u$(medium)" style="margin: 0 auto;">
 	<div class="box alt" style="padding-top: 1em;">
-		<div class="row uniform">
-			<div class="1u"><span class="image fit"><img src="assets/images/androidstudio.svg" alt="" /></span></div>
-			<div class="1u"><span class="image fit"><img src="assets/images/maps.svg" alt="" /></span></div>
-			<div class="1u"><span class="image fit"><img src="assets/images/firebase2.svg" alt="" /></span></div>
-			<div class="1u"><span class="image fit"><img src="assets/images/gfit.svg" alt="" /></span></div>
+		<div class="row 50% uniform" style="width: auto;margin: 0 auto">
+			<div class="3u"><span class="image fit" style="padding-right: 1em"><img src="assets/images/androidstudio.svg" alt="" /></span></div>
+			<div class="3u"><span class="image fit" style="padding-right: 1em"><img src="assets/images/maps.svg" alt="" /></span></div>
+			<div class="3u"><span class="image fit" style="padding-right: 1em"><img src="assets/images/firebase2.svg" alt="" /></span></div>
+			<div class="3u$"><span class="image fit"><img src="assets/images/gfit.svg" alt="" /></span></div>
 		</div>
 	</div>
+</div>
 	<section>
 		<div class = "inner">
 			<h2> Challenges </h2>
