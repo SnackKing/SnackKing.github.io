@@ -73,7 +73,7 @@ image: assets/images/code.jpg
 				</header>
 				<p>My first foray into Android development, On Target Fencing is a scorekeeping app designed to help fencing referees keep track of bouts.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="ontarget.html" class="button">Learn more</a></li>
 					<li><a href="https://play.google.com/store/apps/details?id=com.allegretti.zach.OnTargetFencing&hl=en_US" class="button special">Download on Google Play</a></li>
 				</ul>
 			</div>
