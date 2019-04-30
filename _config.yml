@@ -25,7 +25,7 @@ github_username:  SnackKing
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 10
+tiles-count: 11
 
 # Build settings
 markdown: kramdown
