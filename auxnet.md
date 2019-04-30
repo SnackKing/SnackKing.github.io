@@ -45,8 +45,8 @@ show_tile: false
 	<div class="box alt" style="padding-top: 1em;">
 		<div class="row 50% uniform" style="width: auto;margin: 0 auto">
 			<div class="3u"><span class="image fit" style="padding-right: 1em"><img src="assets/images/androidstudio.svg" alt="" /></span></div>
-			<div class="4u"><span class="image fit" style="padding-right: 1em"><img src="assets/images/Bridgefy.svg" alt="" /></span></div>
-			<div class="3u"><span class="image fit" style="padding-right: 1em"><img src="assets/images/SQLite.svg" alt="" /></span></div>
+			<div class="4u"><span class="image fit" style="padding-right: 1em"><img src="assets/images/bridgefy.svg" alt="" /></span></div>
+			<div class="3u"><span class="image fit" style="padding-right: 1em"><img src="assets/images/sqlite.svg" alt="" /></span></div>
 			<div class="2u$"><span class="image fit"><img src="assets/images/firebase2.svg" alt="" /></span></div>
 		</div>
 	</div>
