@@ -20,8 +20,18 @@ description: >- # this means to ignore newlines until "baseurl:"
   be working at Google as an Engineering Resident in Mountain View, CA. Check out the tiles below to learn more about me.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
+twitter_username: 
 github_username:  SnackKing
+
+street_address: It's a secret ;)
+city: Mountain View
+state: California
+country: United States
+phone: 440-836-2515
+
+github_url: https://github.com/SnackKing
+linkedin_url: https://www.linkedin.com/in/zachary-allegretti-37ba18154/
+facebook_url: https://www.facebook.com/zach.allegretti.3?ref=bookmarks
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
