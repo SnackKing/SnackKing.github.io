@@ -88,7 +88,7 @@ image: assets/images/code.jpg
 				</header>
 				<p>Pupr is a web platform for looking at dogs.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="pupr.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>

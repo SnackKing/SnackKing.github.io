@@ -37,7 +37,7 @@ show_tile: false
 					<li>React Native</li>
 					<li>Expo</li>
 					<li>SQLite</li>
-					<li>Node JS</li>
+					<li>Node.JS</li>
 					<li>Jest</li>
 					<li>PM2</li>
 				</ul>
