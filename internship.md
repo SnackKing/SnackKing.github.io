@@ -97,13 +97,12 @@ image: assets/images/prog.jpg
 		<p>Progressive gave me everything that I wanted and more. They put me on an awesome team on a platform that I'm passionate about and gave me an awesome project to work on thoughout the summer. Everyone that I worked with: my manager, my mentor, and even my teammates were a lot of fun to work with and extremely supportive of me. The few months that I spent there gave me the critical experience that I needed to transition into the software industry. Progressive truly is a company that cares about its employees, and I will forever be grateful for the opportunity.</p>
 		<p>Here is a summary of everything I learned/achieved</p>
 		<ul>
-			<li>An in-depth understanding of Kotlin, including benefits and drawbacks, methods of incorporation, and its place in Android development.
-			<li>How to build and deploy an Alexa skill from start to finish as well as all of the components, including AWS Lambda.
-			<li>Real experience working on an Agile team.
-			<li>Source control at a corporate level.
-			<li>How to work independently while still producing impact. 
+			<li>An in-depth understanding of Kotlin, including benefits and drawbacks, methods of incorporation, and its place in Android development.</li>
+			<li>How to build and deploy an Alexa skill from start to finish as well as all of the components, including AWS Lambda.</li>
+			<li>Real experience working on an Agile team.</li>
+			<li>Source control at a corporate level.</li>
+			<li>How to work independently while still producing impact.</li> 
 		</ul>
-		
 	</div>
 </section>
 

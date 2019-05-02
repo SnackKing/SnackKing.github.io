@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: Thanks for Reading!
+title: Home
 landing-title: 'Hi, my name is Zach'
 description: null
 image: null
