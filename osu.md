@@ -12,14 +12,9 @@ image: assets/images/osufootball.jpg
 
 <!-- One -->
 <section id="one">
-	<div class="inner">
-		<header class="major">
-			<h1>My College Career</h1>
-		</header>
-
-
+<div class="inner">
 <!-- Content -->
-<h2 id="content">How I Became a Buckeye</h2>
+<h2 id="content">Why I Choose Ohio State</h2>
 <p>When I began visiting colleges during high school, I had no intention of venturing far from Northeast Ohio. However I made an exception for Ohio State for the reputation of their computer science and engineering departments. Surprisingly I was not really a fan of sports at the time, so their renowned football program didn't mean much to me at the time. Prior to my first visit, the only other schools I looked at were small, local institutions. I was captivated by the sprawling campus and the seemingly endless list of opportunities that were offered. As soon as I got my acceptance letter a few months later, I decided that I was going to be a buckeye. </p>
 <hr />
 
