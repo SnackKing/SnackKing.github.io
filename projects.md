@@ -101,7 +101,7 @@ image: assets/images/code.jpg
 		<header class="major">
 			<h2>Other Projects</h2>
 		</header>
-		<p>Some other projects.</p>
+		<p>Here are some other projects that I've worked on that I think are noteworthy, but not as cool as the ones listed above.</p>
 		<ul>
 			<li><b>Pi-Spy: </b> A pair pair of glasses that can take photos and videos. Built at HackOHI/O 2017.</li>
 			<li><b>LiftMath: </b> an app for easily calculating the weights you need for lifting</li>
