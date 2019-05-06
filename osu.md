@@ -3,7 +3,7 @@ layout: landing
 title: Education
 nav-menu: true
 description: 'I studied Computer Science and Engineering at THE Ohio State University, one of the largest public universities in the United States.'
-image: assets/images/osufootball.jpg
+image: assets/images/grad.jpg
 
 ---
 
@@ -19,7 +19,7 @@ image: assets/images/osufootball.jpg
 
 
 <!-- Content -->
-<h2 id="content">How I Became a Buckeye</h2>
+<h2 id="content">Why I chose Ohio State</h2>
 <p>When I began visiting colleges during high school, I had no intention of venturing far from Northeast Ohio. However I made an exception for Ohio State for the reputation of their computer science and engineering departments. Surprisingly I was not really a fan of sports at the time, so their renowned football program didn't mean much to me at the time. Prior to my first visit, the only other schools I looked at were small, local institutions. I was captivated by the sprawling campus and the seemingly endless list of opportunities that were offered. As soon as I got my acceptance letter a few months later, I decided that I was going to be a buckeye. </p>
 <hr />
 
@@ -63,11 +63,11 @@ image: assets/images/osufootball.jpg
 <dl>
 	<dt>Deans List x8</dt>
 	<dd>
-		<p>I have been extremely successful throughout my time at Ohio State. I made the Dean's List every semester, which requires a GPA of 3.5 or higher. </p>
+		<p>I have been extremely successful in my academics throughout my time at Ohio State. I made the Dean's List every semester, which requires a GPA of 3.5 or higher. </p>
 	</dd>
 	<dt>Magna Cum Laude</dt>
 	<dd>
-		<p>Students at OSU can graduate with Latin honors depending on GPA. I finished with a 3.86, which earned me the Magna Cum Laude recognition. Sadly
+		<p>Students at OSU can graduate with Latin honors depending on GPA. I finished with a 3.87, which earned me the Magna Cum Laude recognition. Sadly
 		I was just under the requirement for Summa Cum Laude. Even though I didn't quite reach my goal, I'm still proud of my performance.</p>
 	</dd>
 	<dt>O'Connell Family Award</dt>
