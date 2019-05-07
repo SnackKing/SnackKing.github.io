@@ -58,7 +58,7 @@ image: assets/images/grad.jpg
 <dl>
 	<dt>Deans List x8</dt>
 	<dd>
-		<p>I have been extremely successful in my academics throughout my time at Ohio State. I made the Dean's List every semester, which requires a GPA of 3.5 or higher. </p>
+		<p>I have been extremely successful in my academics throughout my time at Ohio State. I made the Dean's List every semester, which requires a GPA of 3.5 or higher. This is a testament to my consistent dedication to learning.</p>
 	</dd>
 	<dt>Magna Cum Laude</dt>
 	<dd>
@@ -67,7 +67,7 @@ image: assets/images/grad.jpg
 	</dd>
 	<dt>O'Connell Family Award</dt>
 	<dd>
-		<p>Every year, this award is given to a deserving engineering undergraduate majoring in either CIS or CSE. I was chosen to receive this award as a sophomore. I felt truly honored to be given the chance to be recognized in front of many of my family and former instructors at the
+		<p>Every year, this award is given to a deserving engineering undergraduate majoring in either CIS or CSE. I was chosen to receive this award as a sophomore. It was an honor to be given the chance to be recognized in front of my family and former instructors at the
 		annual CSE award banquet. </p>
 	</dd>
 </dl>
