@@ -2,7 +2,7 @@
 layout: landing
 title: Internship
 nav-menu: true
-description: 'Internships are a must-have for CS students. I interned at Progressive Insurance, one of the fastest-growing insurance providers, in the summer of 2018.'
+description: 'Internships are a must-have for computer science students. I interned at Progressive Insurance in the summer of 2018.'
 image: assets/images/prog.jpg
 
 ---
