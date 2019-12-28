@@ -2,7 +2,7 @@
 layout: landing
 title: Projects
 nav-menu: true
-description: 'Since coming to college, I have built and broke my fair share of projects. Check out some of my best work.'
+description: 'I have built and broke my fair share of projects. Check out some of my best work.'
 image: assets/images/code.jpg
 ---
 
