@@ -14,6 +14,24 @@ image: assets/images/code.jpg
 <section id="One" class="spotlights">
 	<section>
 		<a href = "" class ="image">
+			<img src="assets/images/tradetester.png" alt="" data-position="top center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>TradeTester</h3>
+				</header>
+				<p>An educational app that allows users to trade stocks in a simulated environment. </p>
+				<ul class="actions"> 
+					<li><a href="tradetester.html" class="button">Learn more</a></li>
+					<li><a href="http://tradetester.herokuapp.com/" class="button">Website</a></li>
+					<li><a href="https://play.google.com/store/apps/details?id=com.zachary.alleg.tradetester&hl=us" class="button special">Download on Google Play</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
+		<a href = "" class ="image">
 			<img src="assets/images/fitrace.png" alt="" data-position="top center" />
 		</a>
 		<div class="content">
