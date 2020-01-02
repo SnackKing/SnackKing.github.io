@@ -5,10 +5,10 @@ show_tile: false
 ---
 
 <div class="box alt">
-		<div class="row uniform">
-			<div class="4u"><span class="image fit"><img src="assets/images/tradetester_mobile_screenshot_1.jpg" alt="" /></span></div>
-			<div class="4u"><span class="image fit"><img src="assets/images/tradetester_web_dark.png" alt="" /></span></div>
-			<div class="4u$"><span class="image fit"><img src="assets/images/tradetester_web_dark_home.png" alt="" /></span></div>
+		<div>
+			<div><span class="image fit"><img src="assets/images/tradetester_web_home.png" alt="" /></span></div>
+			<div><span class="image fit"><img src="assets/images/tradetester_web_1.png" alt="" /></span></div>
+			<div><span class="image fit"><img src="assets/images/tradetester_web_2.png" alt="" /></span></div>
 		</div>
 </div>
 
