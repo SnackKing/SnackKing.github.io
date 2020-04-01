@@ -14,7 +14,7 @@ image: assets/images/grad.jpg
 <section id="one">
 <div class="inner">
 <!-- Content -->
-<h2 id="content">Why I Choose Ohio State</h2>
+<h2 id="content">Why I Chose Ohio State</h2>
 <p>When I began visiting colleges during high school, I had no intention of venturing far from Northeast Ohio. However I made an exception for Ohio State due to the reputation of their College of Engineering. Surprisingly I was not really a fan of sports at the time, so their renowned football program had no impact on my decision. Prior to my first visit, the only other schools I looked at were small, local institutions. I was captivated by the sprawling campus and the seemingly endless list of opportunities that were offered. I applied for early action and accepted without hesitation. </p>
 <hr />
 
